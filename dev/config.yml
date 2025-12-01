@@ -20,4 +20,4 @@ spec:
   - name: httpd
     image: httpd
     ports:
-    - containerPorts: 80
+    - containerPort: 80
